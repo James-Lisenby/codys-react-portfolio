@@ -29,7 +29,7 @@ const handlClick = () => setNav(!nav)
         {/* Hamburger */}
         {/* The styling below makes it so the hamburger is only visible when the screen is 760px or less. */}
         <div onClick={handlClick} className='md:hidden z-10'>
-            <FaBars />
+            {!nav ? <FaBars /> : <FaTimes />}
         </div>
 
         {/* Mobile Menu*/}
