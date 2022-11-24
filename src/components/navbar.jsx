@@ -12,29 +12,29 @@ const Navbar = () => {
 
 
         {/* Menu */}
-        <div>
-            <ul className='flex'>
+  
+            <ul className='hidden md:flex'>
                 <li>Home</li>
                 <li>About</li>
                 <li>Skills</li>
                 <li>Work</li>
                 <li>Contact</li>
             </ul>
-        </div>
+        
 
         {/* Hamburger */}
-        <div className='hidden'>
+        <div className='md:hidden z-10'>
             <FaBars />
         </div>
 
-        {/* Mobile */}
+        {/* Mobile Menu*/}
         <div className='hidden'>
-        <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Skills</li>
-                <li>Work</li>
-                <li>Contact</li>
+        <ul className='absolute top-0 left-0 w-full h-screen bg-[] flex-col justify-center items-center classn'>
+                <li className='py-6 text-4xl'>Home</li>
+                <li className='py-6 text-4xl'>About</li>
+                <li className='py-6 text-4xl'>Skills</li>
+                <li className='py-6 text-4xl'>Work</li>
+                <li className='py-6 text-4xl'>Contact</li>
             </ul>
         </div>
 
