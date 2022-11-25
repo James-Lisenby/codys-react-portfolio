@@ -1,4 +1,6 @@
 import React from 'react'
+import WorkImg from '../assets/workImg.jpeg'
+import realEstate from '../assets/realestate.jpg'
 
 const Work = () => {
   return (
@@ -9,8 +11,11 @@ const Work = () => {
                 <p className='py-6'>Come take a look at some of my work!</p>
             </div>
 
-<div className='grid sm:grid-col-2 md:grid-col-3 gap-4'>
-    <div>
+<div style={{backgroundImage: `url(${WorkImg})`}}
+className='grid sm:grid-col-2 md:grid-col-3 gap-4'>
+    <div className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+        {/* Hover effects */}
         <div>
          <span>
 
