@@ -10,10 +10,11 @@ const About = () => {
                 </div>
                 <div>
                 </div>
-                <div className='max-w-[1000px] w-full  grid grid-cols-2 gap-8'>
-                    <div>
+                <div className='max-w-[1000px] w-full  sm:grid grid-cols-2 gap-8 px-4'>
+                    <div className='sm:text-right text-4xl font-bold'>
                         <h1>Hi! Im cody, feel free to look around and check out some of my work. </h1>
                     </div>
+                    <p>This is just filler text and once this page is complete, I will come back and change it to something more meaningful. </p>
                 </div>
             </div>
         </div>
