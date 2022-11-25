@@ -11,9 +11,98 @@ const Work = () => {
                 <p className='py-6'>Come take a look at some of my work!</p>
             </div>
 
-<div style={{backgroundImage: `url(${WorkImg})`}}
-className='grid sm:grid-col-2 md:grid-col-3 gap-4'>
-    <div className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+{/* Container */}
+<div className='grid sm:grid-col-2 md:grid-col-3 gap-4'>
+
+{/* Currently the demo and code buttons only take me to the top of the page. Need to adjust projects to my actual projects and the buttons to take it to demo, and code. */}
+
+    {/* Grid */}
+    <div style={{backgroundImage: `url(${WorkImg})`}} className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+        {/* Hover effects */}
+        <div className='opacity-0 group-hover:opacity-100'>
+         <span className='text-2xl font-bold text-white tracking-wider'>
+React JS Application
+         </span>
+         <div className='pt-8 text-center'>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Demo</button>
+            </a>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Code</button>
+            </a>
+         </div>
+        </div>
+    </div>
+    <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+        {/* Hover effects */}
+        <div className='opacity-0 group-hover:opacity-100'>
+         <span className='text-2xl font-bold text-white tracking-wider'>
+React JS Application
+         </span>
+         <div className='pt-8 text-center'>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Demo</button>
+            </a>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Code</button>
+            </a>
+         </div>
+        </div>
+    </div>
+    <div style={{backgroundImage: `url(${WorkImg})`}} className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+        {/* Hover effects */}
+        <div className='opacity-0 group-hover:opacity-100'>
+         <span className='text-2xl font-bold text-white tracking-wider'>
+React JS Application
+         </span>
+         <div className='pt-8 text-center'>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Demo</button>
+            </a>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Code</button>
+            </a>
+         </div>
+        </div>
+    </div>
+    <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+        {/* Hover effects */}
+        <div className='opacity-0 group-hover:opacity-100'>
+         <span className='text-2xl font-bold text-white tracking-wider'>
+React JS Application
+         </span>
+         <div className='pt-8 text-center'>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Demo</button>
+            </a>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Code</button>
+            </a>
+         </div>
+        </div>
+    </div>
+    <div style={{backgroundImage: `url(${WorkImg})`}} className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+        {/* Hover effects */}
+        <div className='opacity-0 group-hover:opacity-100'>
+         <span className='text-2xl font-bold text-white tracking-wider'>
+React JS Application
+         </span>
+         <div className='pt-8 text-center'>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Demo</button>
+            </a>
+            <a href="/">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-500 font-bold text-large'>Code</button>
+            </a>
+         </div>
+        </div>
+    </div>
+    <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div'>
 
         {/* Hover effects */}
         <div className='opacity-0 group-hover:opacity-100'>
