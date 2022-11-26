@@ -54,6 +54,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
+![Image 11-26-22 at 1 04 PM](https://user-images.githubusercontent.com/104080882/204110672-ec9914f0-9174-4330-98c0-f466e8d2f570.jpg)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Image 11-26-22 at 1 04 PM](https://user-images.githubusercontent.com/104080882/204110678-91d220f1-ae30-4a3f-b78c-25147a95f9e9.jpg)
+![Image 11-26-22 at 1 05 PM](https://user-images.githubusercontent.com/104080882/204110683-d86ede10-217b-42fb-b02b-45ac9f89a1f1.jpg)
+![Image 11-26-22 at 1 05 PM](https://user-images.githubusercontent.com/104080882/204110686-294d4ab5-3909-4eeb-bc41-8fb5a87a2ffa.jpg)
